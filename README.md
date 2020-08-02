@@ -5,3 +5,6 @@
 
 ## Neural Network Architectures
 ![img](https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png)
+
+## SAS Algorithm Flowchart
+![img](https://blogs.sas.com/content/subconsciousmusings/files/2017/04/machine-learning-cheet-sheet-2.png)
